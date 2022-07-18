@@ -1,4 +1,4 @@
-# HoaxNews
+<h3 align="center">HoaxNews</h3>
 web berita hoax by znaindev
 
 ### Feature
