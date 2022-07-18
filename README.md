@@ -16,13 +16,13 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-2. Clone the repo
+1. Run React
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   npm run dev
    ```
-3. Install NPM packages
+2. Run PHP Artisan
    ```sh
-   npm install
+   php artisan serve
    ```
 
 
