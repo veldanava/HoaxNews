@@ -1,7 +1,7 @@
 # HoaxNews
 web berita hoax by znaindev
 
-Feature
+### Feature
 + Dashboard Admin
 + Login
 + Register
@@ -13,7 +13,7 @@ Feature
 * [![React][React.js]][React-url]
 * [![Laravel][Laravel.com]][Laravel-url]
 
-How To Run
+### How To Run
 
 1. Run React
    ```sh
