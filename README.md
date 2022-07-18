@@ -7,6 +7,7 @@ web berita hoax by znaindev
 + Register
 + Edit 
 + Delete
++ Connect To MySQL
 
 ### Homepage
 ![2022-07-18 (17)](https://user-images.githubusercontent.com/86060881/179453281-ebeccecb-0ec2-463f-8e30-9f0621152bdc.png)
