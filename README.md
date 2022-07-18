@@ -8,12 +8,15 @@ web berita hoax by znaindev
 + Edit 
 + Delete
 
+### Homepage
 ![2022-07-18 (17)](https://user-images.githubusercontent.com/86060881/179453281-ebeccecb-0ec2-463f-8e30-9f0621152bdc.png)
 
 ![2022-07-18 (18)](https://user-images.githubusercontent.com/86060881/179453293-024b80be-4737-48ae-b350-17c35e5d6d4c.png)
 
+### Dashboard Admin
 ![2022-07-18 (19)](https://user-images.githubusercontent.com/86060881/179453307-634be180-02c4-46a0-b7b8-1f786bee68f3.png)
 
+### Edit
 ![2022-07-18 (20)](https://user-images.githubusercontent.com/86060881/179453316-ff36e39e-9158-4f75-827a-5fc996c91199.png)
 
 
