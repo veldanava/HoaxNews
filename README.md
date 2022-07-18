@@ -1,20 +1,19 @@
 # HoaxNews
-web berita hoax
+web berita hoax by znaindev
+
+Feature
+> Dashboard Admin
+> Login
+> Register
 
 ![2022-07-18 (15)](https://user-images.githubusercontent.com/86060881/179452355-26a011a0-d081-4416-bf99-3b4b0819f6b5.png)
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+
+How To Run
 
 1. Run React
    ```sh
