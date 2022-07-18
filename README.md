@@ -2,9 +2,9 @@
 web berita hoax by znaindev
 
 Feature
-> Dashboard Admin
-> Login
-> Register
++ Dashboard Admin
++ Login
++ Register
 
 ![2022-07-18 (15)](https://user-images.githubusercontent.com/86060881/179452355-26a011a0-d081-4416-bf99-3b4b0819f6b5.png)
 
